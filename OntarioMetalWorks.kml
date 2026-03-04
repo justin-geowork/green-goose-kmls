@@ -8,7 +8,7 @@
     <name>OntarioMetalWorks_02_XYTableToPoint</name><styleUrl>#IconStyle00</styleUrl>
     <snippet></snippet>
     <Placemark id="ID_00000">
-      <name>Ottawa</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Ottawa</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -110,7 +110,7 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00001">
-      <name>Port Hope</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Port Hope</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -212,7 +212,7 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00002">
-      <name>Neo Performance Materials ULC</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Neo Performance Materials ULC</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -314,7 +314,7 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00003">
-      <name>Port Colborne</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Port Colborne</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -416,7 +416,7 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00004">
-      <name>Mississauga</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Mississauga</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -518,7 +518,7 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00005">
-      <name>Mississauga</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Mississauga</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -620,7 +620,7 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00006">
-      <name>Brampton</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Brampton</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -722,7 +722,7 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00007">
-      <name>Sudbury</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Sudbury</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -824,7 +824,7 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00008">
-      <name>Copper Cliff Complex</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Copper Cliff Complex</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -926,7 +926,7 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00009">
-      <name>Blind River</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Blind River</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -1028,7 +1028,7 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00010">
-      <name>Ottawa Plant</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Ottawa Plant</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -1130,7 +1130,7 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00011">
-      <name>Ivaco Rolling Mills</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Ivaco Rolling Mills</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -1232,7 +1232,7 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00012">
-      <name>Whitby Mill</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Whitby Mill</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -1334,7 +1334,7 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00013">
-      <name>Welland Mill</name><styleUrl>#IconStyle00</styleUrl>
+      <name>Welland Mill</name>
       <styleUrl>#IconStyle00</styleUrl>
       <snippet></snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">

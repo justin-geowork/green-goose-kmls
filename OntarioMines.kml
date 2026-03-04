@@ -4,3157 +4,3175 @@
 <Document id="OntarioMines_XYTableToPoint">
   <name>OntarioMines_XYTableToPoint</name>
   <snippet></snippet>
-  <description><![CDATA[OntarioMines_XYTableToPoint]]></description>
   <Folder id="FeatureLayer0">
     <name>OntarioMines_XYTableToPoint</name>
     <snippet></snippet>
-    <description><![CDATA[OntarioMines_XYTableToPoint]]></description>
     <Placemark id="ID_00000">
-      <name>Detour Lake</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Detour Lake</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Detour Lake</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Agnico Eagle Mines Limited</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>northeast of Cochrane</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -79.71763099999998,50.01814300000007,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00001">
-      <name>Macassa</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Macassa</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Macassa</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Agnico Eagle Mines Limited</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold, silver</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Kirkland Lake area</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -80.07163699999995,48.14252800000003,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00002">
-      <name>Fox Complex</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Fox Complex</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Fox Complex</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>McEwen Mining Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit, underground, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Matheson</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -80.34081399999997,48.53436200000004,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00003">
-      <name>Young-Davidson</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Young-Davidson</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Young-Davidson</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Alamos Gold Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Matachewan</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -80.67443999999995,47.94667000000004,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00004">
       <name>Nickel Rim South</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Nickel Rim South</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Nickel Rim South</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Glencore Canada Corporation</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Base metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Nickel, copper, cobalt, platinum group metals, gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Sudbury</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Nickel Rim South</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Metal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Nickel Rim South</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Glencore Canada Corporation</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Underground</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Base metals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Nickel, copper, cobalt, platinum group metals, gold</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Sudbury</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -80.79679299999998,46.65798200000006,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00005">
+    <Placemark id="ID_00001">
       <name>Garson</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Garson</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Garson</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Vale Canada Limited</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Base metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Nickel, copper, platinum group metals, gold, silver, cobalt, selenium, tellurium</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Sudbury</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Garson</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Metal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Garson</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Vale Canada Limited</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Underground</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Base metals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Nickel, copper, platinum group metals, gold, silver, cobalt, selenium, tellurium</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Sudbury</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -80.85699999999997,46.56800000000004,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00006">
+    <Placemark id="ID_00002">
       <name>Clarabelle</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Clarabelle</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Clarabelle</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Vale Canada Limited</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Base metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Nickel, copper, platinum group metals, gold, silver, cobalt, selenium, tellurium</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Sudbury</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Clarabelle</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Metal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Clarabelle</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Vale Canada Limited</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Concentrator</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Base metals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Nickel, copper, platinum group metals, gold, silver, cobalt, selenium, tellurium</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Sudbury</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -81.05678199999994,46.49582200000003,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00007">
+    <Placemark id="ID_00003">
       <name>Copper Cliff Complex</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Copper Cliff Complex</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Copper Cliff Complex</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Vale Canada Limited</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Base metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Nickel, copper, platinum group metals, gold, silver, cobalt, selenium, tellurium</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Sudbury</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Copper Cliff Complex</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Metal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Copper Cliff Complex</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Vale Canada Limited</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Underground</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Base metals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Nickel, copper, platinum group metals, gold, silver, cobalt, selenium, tellurium</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Sudbury</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -81.06820499999998,46.49144500000006,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00008">
-      <name>Hoyle Pond</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Hoyle Pond</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Hoyle Pond</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Newmont Corporation</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>south of Porcupine</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -81.10829999999999,48.55190000000005,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00009">
-      <name>Bell Creek</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Bell Creek</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Bell Creek</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Pan American Silver Corp.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Timmins</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -81.17799999999994,48.55300000000005,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00010">
+    <Placemark id="ID_00004">
       <name>Creighton</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Creighton</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Creighton</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Vale Canada Limited</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Base metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Nickel, copper, platinum group metals, gold, silver, cobalt, selenium, tellurium</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Sudbury</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Creighton</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Metal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Creighton</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Vale Canada Limited</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Underground</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Base metals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Nickel, copper, platinum group metals, gold, silver, cobalt, selenium, tellurium</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Sudbury</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -81.18609999999995,46.47400000000005,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00011">
-      <name>Porcupine</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Porcupine</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Porcupine</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Newmont Corporation</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Timmins</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -81.24271899999997,48.46351100000004,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00012">
-      <name>Hollinger</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Hollinger</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Hollinger</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Newmont Corporation</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Timmins</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -81.31313999999998,48.47330000000005,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00013">
+    <Placemark id="ID_00005">
       <name>Coleman</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Coleman</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Coleman</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Vale Canada Limited</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Base metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Nickel, copper, platinum group metals, gold, silver, cobalt, selenium, tellurium</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Sudbury</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Coleman</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Metal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Coleman</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Vale Canada Limited</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Underground</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Base metals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Nickel, copper, platinum group metals, gold, silver, cobalt, selenium, tellurium</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Sudbury</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -81.33969999999994,46.67710000000005,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00014">
+    <Placemark id="ID_00006">
       <name>Fraser</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Fraser</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Fraser</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Glencore Canada Corporation</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Base metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Nickel, copper, platinum group metals, gold, cobalt, silver</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Sudbury</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Fraser</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Metal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Fraser</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Glencore Canada Corporation</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Underground</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Base metals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Nickel, copper, platinum group metals, gold, cobalt, silver</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Sudbury</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -81.34039999999999,46.66330000000005,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00015">
+    <Placemark id="ID_00007">
       <name>Strathcona</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Strathcona</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Strathcona</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Glencore Canada Corporation</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Base metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Nickel, copper, platinum group metals, gold, silver, cobalt, selenium, tellurium</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Sudbury</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Strathcona</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Metal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Strathcona</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Glencore Canada Corporation</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Concentrator</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Base metals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Nickel, copper, platinum group metals, gold, silver, cobalt, selenium, tellurium</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Sudbury</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -81.34269999999998,46.67340000000007,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00016">
-      <name>Kidd Creek</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Kidd Creek</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Kidd Creek</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Glencore Canada Corporation</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Base metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Copper, zinc, silver, selenium, indium</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Timmins</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -81.36999999999995,48.68940000000003,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00017">
+    <Placemark id="ID_00008">
       <name>McCreedy West</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>McCreedy West</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>McCreedy West</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>KGHM International Ltd.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Base metals and precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Copper, nickel, platinum group metals, gold, silver, cobalt</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Sudbury</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>McCreedy West</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Metal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>McCreedy West</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>KGHM International Ltd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Underground</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Base metals and precious metals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Copper, nickel, platinum group metals, gold, silver, cobalt</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Sudbury</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -81.39893999999998,46.63805900000006,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00018">
+    <Placemark id="ID_00009">
       <name>Totten</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Totten</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Totten</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Vale Canada Limited</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Base metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Nickel, copper, platinum group metals, gold, silver, cobalt</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Worthington</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Totten</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Metal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Totten</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Vale Canada Limited</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Underground</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Base metals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Nickel, copper, platinum group metals, gold, silver, cobalt</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Worthington</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -81.45483899999994,46.38117400000004,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00019">
-      <name>Timmins West</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Timmins West</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Timmins West</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Pan American Silver Corp.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Timmins</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -81.54982599999994,48.38327500000003,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00020">
-      <name>Côté Gold</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Côté Gold</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Côté Gold</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>IAMGOLD Corporation</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Gogama</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -81.93619996999996,47.54960828000003,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00021">
-      <name>Borden</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Borden</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Borden</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Newmont Corporation</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit, underground</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Chapleau</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -83.26098099999996,47.87188300000003,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00022">
-      <name>Island</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Island</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Island</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Alamos Gold Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Dubreuilville</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -84.44960399999997,48.28566700000005,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00023">
-      <name>Magino</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Magino</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Magino</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Alamos Gold Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold, silver</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Timmins</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -84.45743999999996,48.28869000000003,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00024">
-      <name>Eagle River</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Eagle River</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Eagle River</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Wesdome Gold Mines Ltd.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Wawa</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -85.46189999999996,47.98610000000008,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00025">
-      <name>Hemlo (Williams)</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Hemlo (Williams)</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Hemlo (Williams)</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Barrick Gold Corporation</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit, underground, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Marathon</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -85.91597999999999,48.69572600000004,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00026">
-      <name>Lac des Iles</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Lac des Iles</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Lac des Iles</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Impala Canada Ltd.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit, underground, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Platinum group metals, gold, nickel, copper, cobalt</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Thunder Bay</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -89.61049999999994,49.16910000000007,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00027">
-      <name>Musselwhite</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Musselwhite</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Musselwhite</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Newmont Corporation</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold, silver</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>north of Pickle Lake</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -90.36359999999996,52.61270000000007,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00028">
-      <name>Red Lake</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Red Lake</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Red Lake</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Evolution Mining Ltd.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold, silver</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Balmertown</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -93.73292197999996,51.05055702000004,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00029">
-      <name>Rainy River</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Rainy River</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Rainy River</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>New Gold Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit, underground, concentrator</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold, silver</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Fort Frances</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -94.01200003999998,48.83300002000004,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00030">
+    <Placemark id="ID_00010">
       <name>St. Lawrence</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>St. Lawrence</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>St. Lawrence</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Canadian Wollastonite</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Wollastonite</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Kingston</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>St. Lawrence</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>St. Lawrence</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Canadian Wollastonite</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Wollastonite</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Kingston</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -76.24654099999998,44.46261800000008,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00031">
+    <Placemark id="ID_00011">
       <name>Tatlock</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Tatlock</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Tatlock</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>OMYA (Canada) Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Calcium carbonate</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Tatlock</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tatlock</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Tatlock</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>OMYA (Canada) Inc.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Calcium carbonate</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Tatlock</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -76.49569999999994,45.15100000000007,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00032">
+    <Placemark id="ID_00012">
       <name>Bath</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Bath</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Bath</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Lafarge Canada Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Limestone</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Bath</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bath</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Bath</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Lafarge Canada Inc.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Limestone</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Bath</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -76.80913799999996,44.17086000000006,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00033">
+    <Placemark id="ID_00013">
       <name>Picton</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Picton</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Picton</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Heidelberg Materials</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Limestone</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Picton</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Picton</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Picton</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Heidelberg Materials</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Limestone</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Picton</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -77.12271399999997,44.05296500000003,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00034">
+    <Placemark id="ID_00014">
       <name>Ogden Point</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Ogden Point</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Ogden Point</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>CRH Canada Group Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Limestone</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Ogden Point</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ogden Point</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Ogden Point</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>CRH Canada Group Inc.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Limestone</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Ogden Point</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -77.88059999999996,43.98310000000004,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00035">
+    <Placemark id="ID_00015">
       <name>Blue Mountain</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Blue Mountain</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Blue Mountain</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Covia Canada Ltd.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit, plant</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Nepheline syenite</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Blue Mountain</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Blue Mountain</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Blue Mountain</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Covia Canada Ltd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit, plant</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Nepheline syenite</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Blue Mountain</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -77.94909999999999,44.67750000000007,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00036">
+    <Placemark id="ID_00016">
       <name>Bowmanville</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Bowmanville</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Bowmanville</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>St Marys CBM (Canada) Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Limestone</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Bowmanville</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bowmanville</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Bowmanville</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>St Marys CBM (Canada) Inc.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Limestone</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Bowmanville</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -78.69459999999998,43.88450000000006,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00037">
+    <Placemark id="ID_00017">
       <name>Dundas</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Dundas</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Dundas</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Carmeuse Lime (Canada) Limited</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Dolomitic lime</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Dundas</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dundas</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Dundas</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Carmeuse Lime (Canada) Limited</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Dolomitic lime</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Dundas</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -79.98639399999996,43.29178200000007,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00038">
+    <Placemark id="ID_00018">
       <name>Dundas</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Dundas</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Dundas</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Lafarge Canada Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Limestone</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Dundas</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dundas</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Dundas</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Lafarge Canada Inc.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Limestone</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Dundas</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -80.00839599999995,43.29151800000005,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00039">
+    <Placemark id="ID_00019">
       <name>Hagersville</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Hagersville</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Hagersville</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>CGC Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground, plant</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gypsum</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Hagersville</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Hagersville</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Hagersville</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>CGC Inc.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Underground, plant</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Gypsum</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Hagersville</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -80.01686899999999,43.01220300000006,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00040">
+    <Placemark id="ID_00020">
       <name>Beachville</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Beachville</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Beachville</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Carmeuse Americas</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit, plant</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Limestone, lime</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Ingersoll</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Beachville</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Beachville</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Carmeuse Americas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit, plant</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Limestone, lime</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Ingersoll</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -80.85680299999996,43.06836700000008,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00041">
+    <Placemark id="ID_00021">
       <name>Sydenham</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Sydenham</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Sydenham</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>E.C. King Contracting Ltd. (Miller Paving Co.)</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Dolomite</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Owen Sound</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sydenham</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Sydenham</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>E.C. King Contracting Ltd. (Miller Paving Co.)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Dolomite</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Owen Sound</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -80.86069999999995,44.56690000000003,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00042">
+    <Placemark id="ID_00022">
       <name>Owen Sound</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Owen Sound</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Owen Sound</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Owen Sound Ledgerock Ltd.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Dolomite</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Owen Sound</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Owen Sound</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Owen Sound</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Owen Sound Ledgerock Ltd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Dolomite</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Owen Sound</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -81.04559999999998,44.58990000000006,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00043">
+    <Placemark id="ID_00023">
       <name>St Marys</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>St Marys</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>St Marys</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>St Marys CBM (Canada) Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Limestone</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>St. Marys</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>St Marys</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>St Marys</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>St Marys CBM (Canada) Inc.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Limestone</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>St. Marys</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -81.15879999999999,43.24830000000003,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00044">
+    <Placemark id="ID_00024">
       <name>Spanish River Carbonite</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Spanish River Carbonite</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Spanish River Carbonite</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Boreal Agrominerals Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Vermiculite</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>northwest of Sudbury</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Spanish River Carbonite</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Spanish River Carbonite</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Boreal Agrominerals Inc.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Vermiculite</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>northwest of Sudbury</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -81.72459999999995,46.62680000000006,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00045">
+    <Placemark id="ID_00025">
       <name>Goderich</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Goderich</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Goderich</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Compass Minerals Canada Corporation</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground, plant</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Salt</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Goderich</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Goderich</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Goderich</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Compass Minerals Canada Corporation</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Underground, plant</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Salt</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Goderich</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -81.72475399999996,43.74373300000008,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00046">
+    <Placemark id="ID_00026">
       <name>Goderich</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Goderich</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Goderich</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Compass Minerals Canada Corporation</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Soultion mining</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Salt</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Goderich</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Goderich</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Goderich</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Compass Minerals Canada Corporation</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Soultion mining</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Salt</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Goderich</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -81.72824999999995,43.74687500000005,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00047">
-      <name>Penhorwood</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Penhorwood</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Penhorwood</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Magris Talc Canada Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Talc</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Penhorwood</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -82.09847999999994,48.19181300000008,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00048">
+    <Placemark id="ID_00027">
       <name>Northern Operation</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Northern Operation</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Northern Operation</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Carmeuse Lime (Canada) Limited</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Limestone</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Blind River</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Northern Operation</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Northern Operation</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Carmeuse Lime (Canada) Limited</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Limestone</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Blind River</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -82.69969999999995,46.19890000000004,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00049">
-      <name>Windsor</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Windsor</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Windsor</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>K+S Windsor Salt Ltd.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Soultion mining</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Salt</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Windsor</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -83.09196299999996,42.28709300000003,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00050">
-      <name>Ojibway</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Ojibway</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Ojibway</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>K+S Windsor Salt Ltd.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Underground</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Salt</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Windsor</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -83.10329999999999,42.25580000000008,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark id="ID_00051">
+    <Placemark id="ID_00028">
       <name>Meldrum Bay</name>
       <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Meldrum Bay</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Nonmetal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Meldrum Bay</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Lafarge Canada Inc.</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit, plant</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Industrial minerals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Limestone, dolomite</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Manitoulin Island</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Meldrum Bay</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OPERATION</td>
+
+<td>Nonmetal mines</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>Meldrum Bay</td>
+
+</tr>
+
+<tr>
+
+<td>OWNER</td>
+
+<td>Lafarge Canada Inc.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FACILITY</td>
+
+<td>Open-pit, plant</td>
+
+</tr>
+
+<tr>
+
+<td>PRODUCT</td>
+
+<td>Industrial minerals</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRODUCT DESCRIPTION</td>
+
+<td>Limestone, dolomite</td>
+
+</tr>
+
+<tr>
+
+<td>CITY</td>
+
+<td>Manitoulin Island</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
 ]]></description>
       <Point>
         <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
         <coordinates> -83.22072699999995,45.90966200000003,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark id="ID_00052">
-      <name>Greenstone</name>
-      <snippet></snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>Greenstone</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>OPERATION</td>
-<td>Metal mines</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>NAME</td>
-<td>Greenstone</td>
-</tr>
-<tr>
-<td>OWNER</td>
-<td>Equinox Gold</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>FACILITY</td>
-<td>Open-pit</td>
-</tr>
-<tr>
-<td>PRODUCT</td>
-<td>Precious metals</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>PRODUCT DESCRIPTION</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>CITY</td>
-<td>Geraldton</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body><script type="text/javascript">
-				function changeImage(attElement, nameElement) {
-				document.getElementById('imageAttachment').src = attElement;
-				document.getElementById('imageName').innerHTML = nameElement;}
-			</script></html>
-]]></description>
-      <Point>
-        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-        <coordinates> -86.95933548999994,49.69359020000007,0</coordinates>
-      </Point>
-    </Placemark>
   </Folder>
   <Style id="IconStyle00">
     <IconStyle>
       <scale>1.000000</scale>
-      <Icon><href>Layer0_Symbol_efcf2320_0.png</href></Icon>
-    </IconStyle>
-    <LabelStyle>
-      <color>00000000</color>
-      <scale>0.000000</scale>
-    </LabelStyle>
-    <PolyStyle>
-      <color>ff000000</color>
-      <outline>0</outline>
-    </PolyStyle>
-  </Style>
-  <Style id="IconStyle030">
-    <IconStyle>
-      <scale>1.000000</scale>
-      <Icon><href>Layer0_Symbol_efceebe0_0.png</href></Icon>
+      <Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href></Icon>
     </IconStyle>
     <LabelStyle>
       <color>00000000</color>
